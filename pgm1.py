@@ -1,2 +1,2 @@
-print("3d")
+print("3d efw")
 
